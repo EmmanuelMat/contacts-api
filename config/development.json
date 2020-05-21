@@ -1,0 +1,8 @@
+{
+    "name": "contact app development",
+    "context": {
+        "provider": "mongodb",
+        "connectionstring": "mongodb+srv://emma_123:xoxo2708@cluster0-jwtt5.gcp.mongodb.net/contacts?retryWrites=true&w=majority"
+    }
+}
+
